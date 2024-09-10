@@ -227,4 +227,34 @@ INSERT INTO aliquotas_icms (origem, destino, aliquota) VALUES ('SP', 'SE', 7);
 INSERT INTO aliquotas_icms (origem, destino, aliquota) VALUES ('SP', 'SP', 7);
 INSERT INTO aliquotas_icms (origem, destino, aliquota) VALUES ('SP', 'TO', 7);
 
+-- Alíquotas para o estado do Tocantins (TO)
+INSERT INTO aliquotas_icms (origem, destino, aliquota) VALUES ('TO', 'AC', 12);
+INSERT INTO aliquotas_icms (origem, destino, aliquota) VALUES ('TO', 'AL', 12);
+INSERT INTO aliquotas_icms (origem, destino, aliquota) VALUES ('TO', 'AM', 12);
+INSERT INTO aliquotas_icms (origem, destino, aliquota) VALUES ('TO', 'AP', 12);
+INSERT INTO aliquotas_icms (origem, destino, aliquota) VALUES ('TO', 'BA', 12);
+INSERT INTO aliquotas_icms (origem, destino, aliquota) VALUES ('TO', 'CE', 12);
+INSERT INTO aliquotas_icms (origem, destino, aliquota) VALUES ('TO', 'DF', 12);
+INSERT INTO aliquotas_icms (origem, destino, aliquota) VALUES ('TO', 'ES', 12);
+INSERT INTO aliquotas_icms (origem, destino, aliquota) VALUES ('TO', 'GO', 12);
+INSERT INTO aliquotas_icms (origem, destino, aliquota) VALUES ('TO', 'MA', 12);
+INSERT INTO aliquotas_icms (origem, destino, aliquota) VALUES ('TO', 'MG', 12);
+INSERT INTO aliquotas_icms (origem, destino, aliquota) VALUES ('TO', 'MS', 12);
+INSERT INTO aliquotas_icms (origem, destino, aliquota) VALUES ('TO', 'MT', 12);
+INSERT INTO aliquotas_icms (origem, destino, aliquota) VALUES ('TO', 'PA', 12);
+INSERT INTO aliquotas_icms (origem, destino, aliquota) VALUES ('TO', 'PB', 12);
+INSERT INTO aliquotas_icms (origem, destino, aliquota) VALUES ('TO', 'PE', 12);
+INSERT INTO aliquotas_icms (origem, destino, aliquota) VALUES ('TO', 'PI', 12);
+INSERT INTO aliquotas_icms (origem, destino, aliquota) VALUES ('TO', 'PR', 12);
+INSERT INTO aliquotas_icms (origem, destino, aliquota) VALUES ('TO', 'RJ', 12);
+INSERT INTO aliquotas_icms (origem, destino, aliquota) VALUES ('TO', 'RN', 12);
+INSERT INTO aliquotas_icms (origem, destino, aliquota) VALUES ('TO', 'RO', 12);
+INSERT INTO aliquotas_icms (origem, destino, aliquota) VALUES ('TO', 'RR', 12);
+INSERT INTO aliquotas_icms (origem, destino, aliquota) VALUES ('TO', 'RS', 12);
+INSERT INTO aliquotas_icms (origem, destino, aliquota) VALUES ('TO', 'SC', 12);
+INSERT INTO aliquotas_icms (origem, destino, aliquota) VALUES ('TO', 'SE', 12);
+INSERT INTO aliquotas_icms (origem, destino, aliquota) VALUES ('TO', 'SP', 12);
+INSERT INTO aliquotas_icms (origem, destino, aliquota) VALUES ('TO', 'TO', 18);
+
+
 
